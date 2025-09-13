@@ -1,6 +1,6 @@
 # BMI Calculator
 
-Semplice e elegante calcolatore di **BMI (Body Mass Index)** realizzato con **HTML**, **Bootstrap 5** e **JavaScript**. Mostra il valore del BMI in tempo reale e indica la categoria di peso con un badge colorato.
+Semplice calcolatore di **BMI (Body Mass Index)** realizzato con **HTML**, **Bootstrap 5** e **JavaScript**. Mostra il valore del BMI in tempo reale e indica la categoria di peso con un badge colorato.
 
 ---
 
@@ -13,8 +13,7 @@ Semplice e elegante calcolatore di **BMI (Body Mass Index)** realizzato con **HT
   - Normale (verde)
   - Sovrappeso (giallo)
   - Obeso (rosso)  
-- Interfaccia **minimal e responsive**, ottimizzata per desktop e mobile.  
-- Funziona completamente lato client, **nessun backend necessario**.  
+- Interfaccia **minimal e responsive**, ottimizzata per desktop e mobile.
 
 ---
 
